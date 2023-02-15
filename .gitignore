@@ -1,0 +1,8 @@
+.idea/
+.pyc
+__pycache__
+.pth
+.ipynb_checkpoints
+flowers/*
+checkpoint.pth
+LICENSE
